@@ -18,3 +18,14 @@ Celery: For handling asynchronous tasks such as sending notifications or process
 Redis: Used for caching and session management.
 Docker: Containerization tool for consistent development and deployment environments.
 CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+
+👥 Team Roles
+Business Analyst: Translates customer business needs into requirements.
+Product Owner: Holds responsibility for a product vision and evolution.
+Project Manager: Makes sure a product or its part is delivered on time and within budget.
+Software Architect: Designs a high-level software architecture, Selects appropriate tools and platforms to implement the product vision, Sets up code quality standards and performs code reviews.
+Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+Database Administrator: Manages database design, indexing, and optimizations.
+DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+Test Automation Engineer: Designs a test automation ecosystem, Writes and maintains test scripts for automated testing.
